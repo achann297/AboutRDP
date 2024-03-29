@@ -15,20 +15,9 @@ Remote Desktop Protocol is a method used to link from the client server to dipla
 
 <h2>Why Use RDP?</h2>
 
-<p>
-RDP is used 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/achann297/AboutRDP/assets/162517715/e69f1d8d-01d3-4a6d-9b99-e2799819edd6)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+RDP is used in different ways and for different purposes. For instance, a Single Help Desk worker could use RDP for a consumer ticket over a live phone call in order to test the network or edit some settings to find the root cause of the consumer's issue right away. A company can have a worker manage multiple servers, which would be a Remote Desktop Connection Manager, and they can keep up with each different computer remotely to check on servers and sata and make sure everything is good and running, rather than having to get in to each computer directly. RDP is a convieniency for accessing a computer without always having to be present at that computer's location.
+
